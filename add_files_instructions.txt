@@ -1,0 +1,26 @@
+INSTRUCTIONS RAPIDES POUR CORRIGER L'ERREUR
+===========================================
+
+L'erreur "Cannot find 'HybridDashboardView' in scope" vient du fait que
+les fichiers ne sont pas encore ajoutés au projet Xcode.
+
+SOLUTION EN 3 ÉTAPES :
+-----------------------
+
+1. Ouvrez Xcode avec hybride.xcodeproj
+
+2. Dans le navigateur de projet (panneau de gauche) :
+   - Clic droit sur le dossier "hybride" (le dossier bleu)
+   - Choisissez "Add Files to 'hybride'..."
+
+3. Dans la fenêtre :
+   - Allez dans /Users/matisselemao/Desktop/hybride
+   - Sélectionnez les 4 dossiers : Models, Views, Components, Services
+   - IMPORTANT : Cochez "Create groups" (pas folder references)
+   - IMPORTANT : Décochez "Copy items if needed"
+   - IMPORTANT : Cochez "hybride" dans "Add to targets"
+   - Cliquez "Add"
+
+4. Compilez : Cmd + B
+
+Les erreurs devraient disparaître !
