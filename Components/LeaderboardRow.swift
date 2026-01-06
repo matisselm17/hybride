@@ -89,3 +89,4 @@ struct LeaderboardRow: View {
     .background(Color.black)
 }
 
+

@@ -9,3 +9,4 @@ struct LeaderboardEntry: Identifiable {
     let avatar: String? // Optional avatar emoji or initial
 }
 
+

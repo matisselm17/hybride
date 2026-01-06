@@ -110,3 +110,4 @@ struct HistoryRow: View {
     .background(Color.black)
 }
 
+

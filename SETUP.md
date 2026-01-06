@@ -72,3 +72,4 @@ The app should compile and run, showing the Hybrid dashboard as the first tab.
 - Dark mode is enforced via `.preferredColorScheme(.dark)`
 - Mock data is included for immediate testing
 
+

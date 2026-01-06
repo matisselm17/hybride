@@ -80,3 +80,4 @@ L'erreur "Signing for 'hybride' requires a development team" est normale :
 
 Cette erreur n'empêche pas la compilation pour le simulateur.
 
+

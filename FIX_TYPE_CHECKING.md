@@ -34,3 +34,4 @@ Dites-moi quel fichier exactement, et je pourrai le simplifier davantage.
 
 Toutes les modifications conservent exactement le même comportement visuel et fonctionnel. J'ai simplement déplacé les calculs complexes dans des variables/fonctions séparées pour aider le compilateur Swift.
 
+

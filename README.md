@@ -117,3 +117,4 @@ All components are designed to be easily customizable:
 - Social sharing
 - Push notifications
 
+
